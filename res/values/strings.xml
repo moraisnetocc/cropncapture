@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CropNCapture</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+	<string name="intro">Capture uma imagem!</string>
+	<string name="picture">Imagem</string>
+	<string name="capture">Camera</string>
+	<string name="bin">Binarizar</string>
+	<string name="capFromFile">Galeria</string>
+	<string name="ant">Anterior</string>
+	<string name="prox">Próxima</string>	
+</resources>
